@@ -5,4 +5,4 @@ Parameters passing in C++ can be hard to understand for students which study les
 This project test 3 ways to pass parameters to functions :
 - Value
 - Pointer
-- Reference
+- Reference (C++ specific)
