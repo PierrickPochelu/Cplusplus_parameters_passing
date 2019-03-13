@@ -6,3 +6,7 @@ This project test 3 ways to pass parameters to functions :
 - Value
 - Pointer
 - Reference (C++ specific)
+
+<h2>Test it</h2>
+The easiest to test main.cpp code, copy/paste content to an online cpp interpreter.
+Example : <a href="https://www.onlinegdb.com/">https://www.onlinegdb.com/</a>
