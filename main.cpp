@@ -15,7 +15,7 @@ void F(){
 }
 
 float* f_star(float* x){
-    x[0]=x[0]+1.;
+    x[0]=x[0]+1.; //equiv. to (*x)=(*x)+1.; //equiv. to (*&*x)=(*&*x)+1.;
     std::cout << "inside f : x=" << x[0] << " @x=" << x <<  std::endl; 
     return x;
 }
